@@ -48,22 +48,3 @@ From designing APIs with ASP.NET Core to playing around with design patterns lik
 
 ---
 
-### 🛍️ Bonus Tip 💚
-
-💥 ما تفوت عرض السنة من iHerb! 💥  
-إذا كنت مهتم بصحتك أو تشتري مكملات وفيتامينات وأشياء طبيعية — استخدم الكود الحصري:
-
-<!--
-**AhmedEltamalawii/AhmedEltamalawii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
